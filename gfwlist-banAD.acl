@@ -52,9 +52,17 @@
 (^|\.)\w*usage\w*\.\w*$
 (^|\.)\w*wlmonitor\w*\.\w*$
 (^|\.)\w*zjtoolbar\w*\.\w*$
+(^|\.)\w*xunlei\w*\.\w*$
+(^|\.)\w*sandai\w*\.\w*$
+(^|\.)\w*Thunder\w*\.\w*$
+(^|\.)\w*XLLiveUD\w*\.\w*$
 (^|\.)ad\d{0,3}\..*$
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
+(^|\.)xunlei\..*$
+(^|\.)sandai\..*$
+(^|\.)Thunder\..*$
+(^|\.)XLLiveUD\..*$
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
